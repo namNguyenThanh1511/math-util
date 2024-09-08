@@ -31,7 +31,7 @@ public class MathUtilDDTTest { // @Runwith bản chất là Interface , thay vì
             {3, 6},
             {4, 24},
             {5, 120},
-            {6, 720}// int a[input][expected] = { {2:input,2:expected} // {a[0], a[1]}
+            {6, 120}// int a[input][expected] = { {2:input,2:expected} // {a[0], a[1]}
         //                  {3,6}  }
         };
     }
